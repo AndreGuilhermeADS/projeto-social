@@ -29,20 +29,20 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 700px;
-    width: 350px;
+    height: 650px;
+    width: 315px;
     background-color: rgb(0, 128, 255);
     background: url(../imagens/imagens/frame-iphone.png);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+   
 }
 
 iframe#tela{
     position: relative;
-    top: 91px;
-    left: 25px;
-    width: 300.1px;
-    height: 525px;
+    top: 81px;
+    left: 23px;
+    width: 266px;
+    height: 472px;
 }
 
 section#rede-sociais img{
@@ -68,6 +68,6 @@ img:hover{
 }
 
 .link{
-    padding-top: 130px;
-    padding-right: 50px;
+    padding-top: 50px;
+    padding-right: 40px;
 }
